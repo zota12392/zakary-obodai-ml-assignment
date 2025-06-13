@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+ydata-profiling
+scikit-learn
+streamlit
+joblibscikit-learn
+streamlit
+
+

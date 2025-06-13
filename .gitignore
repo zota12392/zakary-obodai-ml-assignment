@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac OS system files
+.DS_Store
+
+# VS Code settings (optional, if personal)
+.vscode/
+
+# Model and profiling outputs
+*.pkl
+*.joblib
+*.html
